@@ -1,0 +1,25 @@
+baseURL = "https://www.handelldesul.me/"
+languageCode = "en-us"
+title = "Handell Desulme - Software Engineer"
+paginate = 10
+theme = "hugo-coder"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+
+[params]
+  twitter_url = "https://twitter.com/HandellDesulme"
+  github_url = "https://github.com/hjdesulme"
+  linkedin_url = "https://linkedin.com/in/hjdesulme"
+  description = "Handell Desulme's professional and personal website on technology, society, and culture."
