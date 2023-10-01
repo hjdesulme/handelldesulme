@@ -8,6 +8,7 @@ theme = "hugo-coder"
   tag = "tags"
   category = "categories"
 
+[menu]
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -23,3 +24,5 @@ theme = "hugo-coder"
   github_url = "https://github.com/hjdesulme"
   linkedin_url = "https://linkedin.com/in/hjdesulme"
   description = "Handell Desulme's professional and personal website on technology, society, and culture."
+
+publishDir = "public"
