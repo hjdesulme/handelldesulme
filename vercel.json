@@ -2,9 +2,9 @@
   "version": 2,
   "builds": [
     {
-      "src": "config.toml",
+      "src": "build.sh",
       "use": "@vercel/static-build",
-      "config": { "buildCommand": "hugo" }
+      "config": { "buildCommand": "./build.sh" }
     }
   ],
   "routes": [
