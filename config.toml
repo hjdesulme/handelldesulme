@@ -25,4 +25,4 @@ theme = "hugo-coder"
   linkedin_url = "https://linkedin.com/in/hjdesulme"
   description = "Handell Desulme's professional and personal website on technology, society, and culture."
 
-publishDir = "dist/public"
+publishDir = "public"
