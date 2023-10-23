@@ -1,6 +1,6 @@
 +++
 title = 'My First Post: Learning in Public'
-date = 2023-10-22T12:33:33-07:00
+date = 2023-10-22T15:33:33-07:00
 draft = false
 +++
 
