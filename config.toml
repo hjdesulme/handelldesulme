@@ -1,6 +1,6 @@
 baseURL = "https://www.handelldesul.me/"
 languageCode = "en-us"
-title = "Handell Désulmé - Software Engineer"
+title = "Handell Désulmé"
 paginate = 10
 theme = "hugo-coder"
 
