@@ -18,6 +18,10 @@ theme = "hugo-coder"
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
+[[menu.main]]
+  name = "Privacy"
+  url = "/privacy/"
+  weight = 2
 
 [params]
   twitter_url = "https://twitter.com/HandellDesulme"
