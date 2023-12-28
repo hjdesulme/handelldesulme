@@ -18,7 +18,7 @@ I use Umami to track site visits. This data helps me understand how visitors int
 
 ## Data Protection
 
-I are committed to ensuring the security of ymy personal information and take reasonable steps to protect it from unauthorized access or disclosure.
+I are committed to ensuring the security of your personal information and take reasonable steps to protect it from unauthorized access or disclosure.
 
 ## Consent
 
