@@ -1,6 +1,6 @@
 +++
 title = 'From LinkedIn'
-date = 2023-12-10T3:33:33-07:00
+date = 2023-12-10
 draft = false
 +++
 
