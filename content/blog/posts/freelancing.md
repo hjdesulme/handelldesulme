@@ -1,5 +1,5 @@
 +++
-title = 'From LinkedIn'
+title = 'Freelancing'
 date = 2023-12-10
 draft = true
 +++
