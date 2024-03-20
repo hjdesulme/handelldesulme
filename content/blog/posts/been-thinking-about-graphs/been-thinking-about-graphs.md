@@ -147,16 +147,6 @@ At the risk of giving a hand-wavy explanation, I'll assert that despite elements
 
 The Count-Min Sketch was invented by Rutgers University computer scientists Graham Cormode and S. Muthukrishnan in 2003.
 
-##### HyperLogLog
-
-*Graph*
-
-![HyperLogLog Graph Example](/images/HyperLogLog graph.svg "HyperLogLog Graph")
-
-*Properties*
-
-*Text*
-
 ### Disjoint Sets
 
 ##### Union-Find
@@ -217,33 +207,9 @@ The Count-Min Sketch was invented by Rutgers University computer scientists Grah
 
 [Some text]
 
-### Social Infrastructure Examples
+## Algorithmic Examples
 
-##### Electric Grid
-
-##### Water Distribution
-
-### Diagrammatic Examples
-
-##### Flow Charts
-##### Architecture Diagrams
-##### Sequence Diagrams (Latencies)
-
-All latencies can be represented with sequence diagrams. And all sequence diagrams can be represented with graphs. The edges will just need to be labeled with departure and arrival times. Here's an example.
-
-## Related Writings
-
-Though excited about the idea, I realized that I most certainly could not have been the first to think about this conjecture. Writers have also published pieces discussing or alluding to this idea. A few examples are the following:
-
-## Implications/Applications
-
-## Wrapping Up
-
-I would like to clarify that I do not intend to suggest that I believe that every problem should be considered a graph problem. It's just that graphs are at a flexible enough data structure to, in theory, model any type of data one is working with. They serve as a reliable model to offer a great deal of clarity when trying to quickly reason about the characteristics of any system, whether it be a data structure or social system. And if the conjecture is true, then perhaps every algorithm can be considered a graph algorithm.
-
-## Bonus: Algorithmic Graphs
-
-Okay, I lied about wrapping up. The idea of considering every algorithm to be a graph algorithm is cool and I'd like show how with a few more examples. 
+[Okay, I lied about wrapping up. The idea of considering every algorithm to be a graph algorithm is cool and I'd like show how with a few more examples.]strikethroug
 
 ### Cryptographic Algorithms
 
@@ -281,6 +247,29 @@ Finally, let's look at calculating the factorial of a number.
                         ▼
                         1
 
+### Diagrammatic Examples
+
+##### Flow Charts
+##### Architecture Diagrams
+##### Sequence Diagrams (Latencies)
+
+All latencies can be represented with sequence diagrams. And all sequence diagrams can be represented with graphs. The edges will just need to be labeled with departure and arrival times. Here's an example.
+
+### Social Infrastructure Examples
+
+##### Electric Grid
+
+##### Water Distribution
+
+## Related Writings
+
+Though excited about the idea, I realized that I most certainly could not have been the first to think about this conjecture. Writers have also published pieces discussing or alluding to this idea. A few examples are the following:
+
+## Implications/Applications
+
+## Wrapping Up
+
+I would like to clarify that I do not intend to suggest that I believe that every problem should be considered a graph problem. It's just that graphs are at a flexible enough data structure to, in theory, model any type of data one is working with. They serve as a reliable model to offer a great deal of clarity when trying to quickly reason about the characteristics of any system, whether it be a data structure or social system. And if the conjecture is true, then perhaps every algorithm can be considered a graph algorithm.
 
 
 I hope you found this as interesting I did. I also have high hopes that this makes it easier for me and others to reason about data structures by remembering that it most likely can be represented as a graph.
