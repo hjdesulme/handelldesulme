@@ -13,6 +13,12 @@ An idea that I’ve been finding fascinating is the possibility that every data 
 3. Weights: numerical values on edges representing the strength of the relationship between two vertices (implicitly has a constant value of 1 by default).
 
 [They look like this.]
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+[]End Ex
 
 This conjecture actually came about from non data-structure systems. I was originally thinking about how societies function, from the perspective of the systems that create our infrastructure, such as telecommunications networks, waste management systems, supply chains, etc. and from that, I organically drew the connection (no pun intended) to graphs, having realized that these can all be represented this way. That then spurred the question as to whether all data structures can be represented this way. I'm also of the belief that the culture around studying for technical interviews sincerely needs to change. Studying data structures and algorithms should come from a place of genuine interest and curiosity, not merely from a desire to pass an interview. So ruminating about data structures from a graph theoretic-lens was an exercise I wouldn't pass up as it has been a much more engaging way for me to process these ideas.
 
@@ -273,3 +279,10 @@ I would like to clarify that I do not intend to suggest that I believe that ever
 
 
 I hope you found this as interesting I did. I also have high hopes that this makes it easier for me and others to reason about data structures by remembering that it most likely can be represented as a graph.
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
