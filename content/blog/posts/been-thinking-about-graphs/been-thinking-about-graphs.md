@@ -286,3 +286,5 @@ I hope you found this as interesting I did. I also have high hopes that this mak
 [^note]:
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
+
+    As someone who spent much of his life repressed, an unexpected benefit I've noticed about self-expression is that it feels good for goodness sake. It's its own reward. No ulterior motives. Just expressing how one feels in whatever way one wishes to. Feels freeing.
