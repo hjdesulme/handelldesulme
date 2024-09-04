@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Step 1: Specify Hugo Version
-HUGO_VERSION="0.119.0"
+HUGO_VERSION="0.123.8"
 
 # Step 2: Fetch Hugo
 echo "Fetching Hugo $HUGO_VERSION..."

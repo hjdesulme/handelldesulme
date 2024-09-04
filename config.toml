@@ -1,4 +1,4 @@
-baseURL = "https://www.handelldesul.me/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Handell Désulmé"
 paginate = 10
@@ -12,21 +12,31 @@ theme = "hugo-coder"
 [[menu.main]]
   name = "Home"
   url = "/"
-[[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
+  weight = 1
 [[menu.main]]
   name = "Privacy"
   url = "/privacy/"
   weight = 2
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 4
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
 
 [params]
+  author = "Handell Désulmé"
+  info = "Fullstack Software Engineer"
+  description = "Explore my projects, skills, and thoughts on software engineering through the lens of cellular automata."
+  about = "I'm a Haitian-American from the hood in Philly. And I'm a firm believer in the power of STEM to save lives and transform communities. My main goal, outside of breaking back into the industry as a software engineer and upskillin' til' I can't no mo', is to inspire other kids who look like me, and who may have lacked hope as I did as a child."
   twitter_url = "https://twitter.com/HandellDesulme"
   github_url = "https://github.com/hjdesulme"
   linkedin_url = "https://linkedin.com/in/hjdesulme"
-  description = "Handell Desulme's professional and personal website on technology, society, and culture."
-
-publishDir = "public"
+  customCSS = ["/css/custom.css"]
+  publishDir = "public"
