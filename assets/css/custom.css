@@ -107,3 +107,15 @@ h1, h2, h3 {
 #wllm-container.show {
   height: 600px; /* Adjust this value as needed */
 }
+
+.blog-link {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #0056b3;
+  transition: color 0.3s ease;
+  font-weight: bold;
+}
+
+.blog-link:hover {
+  color: #003d82;
+}
