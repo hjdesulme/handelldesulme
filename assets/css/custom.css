@@ -23,6 +23,13 @@ h1, h2, h3 {
   border: 1px solid #333;
   padding: 1rem;
   margin-top: 1rem;
+  position: relative;
+  overflow: hidden;
+  transition: padding-bottom 0.3s ease;
+}
+
+.about-content {
+  transition: opacity 0.3s ease;
 }
 
 .menu {
@@ -47,4 +54,56 @@ h1, h2, h3 {
 
 #cellular-automata {
   opacity: 0.1;
+}
+
+.who-look-like-me {
+  cursor: pointer;
+  text-decoration: underline;
+  color: #0056b3;
+  transition: color 0.3s ease;
+  font-weight: bold;
+  background-color: #e6f3ff;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.who-look-like-me:hover {
+  color: #003d82;
+  background-color: #cce5ff;
+}
+
+#wllm-container {
+  transition: opacity 0.3s ease, height 0.3s ease;
+  height: 0;
+  top: 3rem; /* This should match the top padding of .section-content */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+
+#wllm-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  object-position: top;
+}
+
+.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.section-content.show-image {
+  padding-bottom: calc(1rem + 225px); /* Default for mobile */
+}
+
+@media screen and (min-width: 768px) {
+  .section-content.show-image {
+    padding-bottom: calc(1rem + 425px); /* For desktop */
+  }
+}
+
+#wllm-container.show {
+  height: 600px; /* Adjust this value as needed */
 }
