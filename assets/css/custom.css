@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Roboto', sans-serif;
   background-color: #f0f0f0;
   color: #333;
 }
@@ -100,7 +102,7 @@ h1, h2, h3 {
 
 @media screen and (min-width: 768px) {
   .section-content.show-image {
-    padding-bottom: calc(1rem + 425px); /* For desktop */
+    padding-bottom: calc(1rem + 450px); /* For desktop */
   }
 }
 
@@ -118,4 +120,20 @@ h1, h2, h3 {
 
 .blog-link:hover {
   color: #003d82;
+}
+
+#bml-traffic-model {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0.2;
+  pointer-events: none;
+}
+
+.content {
+  font-size: 1.1rem;
+  line-height: 1.6;
 }
