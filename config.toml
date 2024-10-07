@@ -32,7 +32,7 @@ theme = "hugo-coder"
 
 [params]
   author = "Handell Désulmé"
-  info = "Fullstack Software Engineer | Lifelong Learner | Writer"
+  info = "Software Engineer | Lifelong Learner | Writer"
   description = "Explore my projects, skills, and thoughts on software engineering through the lens of cellular automata."
   about = "I'm a Haitian-American from Philadelphia, PA. And I'm a firm believer in the power of STEM to save lives and transform communities. My main goal, outside of breaking back into the tech industry as a software engineer and upskilling as much as I can, is to inspire other kids who look like me, and who may have lacked hope as I did as a child, to overcome obstacles and turn their dreams into plans."
   twitter_url = "https://twitter.com/HandellDesulme"
