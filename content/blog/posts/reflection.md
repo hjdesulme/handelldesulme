@@ -1,7 +1,7 @@
 +++
 title = 'Reflection'
 date = 2024-10-07
-draft = false
+draft = true
 +++
 
 During my junior year in high school, I remember sitting in one of my math classes, and flipping through pages of the text book to see images of the various mathematicians of the past who discovered the very theorems and algorithms that we were being taught. I recall flipping through in search of a single face that looked like mine, to no avail. I remember a mix of anger at my own ancestors and of confusion. Where are we? Where do we fit in the plot? It was obviously important to someone that we learn these concepts if we're being taught them in school. But why aren't we a part of this narrative? What in the world were my ancestors doing?
