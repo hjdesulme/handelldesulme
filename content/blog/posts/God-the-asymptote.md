@@ -1,7 +1,7 @@
 +++
 title = 'God, the Asymptote'
 date = 2024-10-11
-draft = true
+draft = false
 +++
 
 I am agnostic when it comes to divinity, which means I don't know if (a) God exists or not. I am a thiest, though, which means that I believe in (a) God. However, to avoid cognitive dissonance, my faith in God is predicated on negative (or apophatic) theology.
