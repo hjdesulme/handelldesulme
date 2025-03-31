@@ -25,10 +25,14 @@ theme = "hugo-coder"
   name = "Blog"
   url = "/blog/"
   weight = 4
+  [[menu.main]]
+  name = "Papers"
+  url = "/papers/"
+  weight = 5
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 5
+  weight = 6
 
 [params]
   author = "Handell Désulmé"
