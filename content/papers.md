@@ -26,6 +26,7 @@ Blog Posts
 - [ ] [*What is Observability*](https://www.brendangregg.com/blog/2021-05-23/what-is-observability.html) (Brendan Gregg's Blog)
 - [ ] [*Poor Disk Performance*](https://www.brendangregg.com/blog/2021-05-09/poor-disk-performance.html) (Brendan Gregg's Blog)
 - [ ] [*Protobuffers Are Wrong*](https://reasonablypolymorphic.com/blog/protos-are-wrong/) (Reasonably Polymorphic - blog)
+- [ ] [*Of Ideas and Men*](https://reasonablypolymorphic.com/blog/ideas-and-men/index.html) (Reasonably Polymorphic - blog)
 
 AI (specifically on LLMs, Agents, etc.)
 - [ ] [*A Deep Dive Into MCP and the Future of AI Tooling*](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/) (a16z Content)
