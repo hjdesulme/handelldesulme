@@ -21,6 +21,7 @@ Blog Posts
 - [ ] [*Pact vs OpenAPI: Choosing the right foundation for your API testing strategy*](https://www.speakeasy.com/post/pact-vs-openapi) (Speakeasy Blog)
 - [ ] [*Why We Can't Have Nice Software*](https://andrewkelley.me/post/why-we-cant-have-nice-software.html) (Andrew Kelley - blog)
 - [ ] [*Beyond Logs, Metrics and Traces*](https://logz.io/blog/beyond-logs-metrics-traces/) (logz.io Blog)
+- [ ] [*Questionable Advice: “My boss says we don’t need any engineering managers. Is he right?”*](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/) (Charity.WTF - blog)
 - [ ] [*My Approach to Building Large Technical Projects*](https://mitchellh.com/writing/building-large-technical-projects) (Mitchell Hashimoto)
 - [ ] [*Why Don't You Use ...*](https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html) (Brendan Gregg's Blog)
 - [ ] [*What is Observability*](https://www.brendangregg.com/blog/2021-05-23/what-is-observability.html) (Brendan Gregg's Blog)
