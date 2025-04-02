@@ -5,7 +5,7 @@ description = "My current and future projects"
 
 My to-do list of projects (not in order nor clickable; just raw text for now).
 
-- [ ] Update this site to make it more customized and simple.
+- [ ] Update this site to make it more simple, customized, and *performant* (yeesh!).
 - [ ] More blogs. Next up: CORE-TEMPLES framework.
 - [ ] Brag Book: Web app that facilitates recording wins.
 - [ ] Afro-Metrics: Web report on Black/African institutions and key stats.
