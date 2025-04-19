@@ -7,17 +7,14 @@
       "config": { "buildCommand": "./build.sh", "outputDirectory": "public" }
     }
   ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/$1" }
-  ],
-  "env": {
-    "HUGO_VERSION": "0.119.0"
-  },
   "redirects": [
     {
       "source": "/(.*)",
       "destination": "https://www.linkedin.com/in/hjdesulme/",
       "permanent": false
     }
-  ]
+  ],
+  "env": {
+    "HUGO_VERSION": "0.119.0"
+  }
 }
